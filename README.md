@@ -1,1 +1,1 @@
-Fetch snapshots for a specific url
+Fetch snapshots from wayback machines
